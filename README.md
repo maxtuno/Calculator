@@ -8,10 +8,13 @@ A simple calculator created in 5 minutes with ANTLR4, an example of a small inte
 Input (source.cal):
 
 1 + 2
+
 ((3 * 2) + 5)
+
 (666 + 777) - 5
 
 a = 5
+
 b = 7
 
 a + b/2
@@ -19,6 +22,9 @@ a + b/2
 Output:
 
 3.0
+
 11.0
+
 1438.0
+
 8.5
